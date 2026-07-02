@@ -12,4 +12,4 @@ React • Next.js • TypeScript • JavaScript • Tailwind CSS • Material UI
 
 Creating business-focused digital experiences and solving real-world problems through technology.
 
-🔗 Portfolio: [https://your-domain.com](https://mohamed-rabea-portfolio.vercel.app/)
+🔗 Portfolio: https://mohamed-rabea-portfolio.vercel.app/
